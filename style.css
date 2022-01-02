@@ -5,3 +5,9 @@ h1{
 p{
     color: hotpink;
 }
+
+button{
+    color: lime;
+    background-color: mediumslateblue;
+    padding: 5px;
+}
